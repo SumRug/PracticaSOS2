@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SoS</string>
+    <string name="lbl1">S.O.S</string>
+    <string name="lbl2">Llamada</string>
+    <string name="lbl3">SMS WhatsApp</string>
+    <string name="lbl4">SMS de texto</string>
+    <string name="lbl5">Email</string>
+    <string name="lbl6">911</string>
+    <string name="servicio1">Envía mensajes automáticos en emergencias</string>
+
+</resources>
