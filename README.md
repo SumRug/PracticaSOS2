@@ -1,1 +1,1 @@
-[APK Para la aplicación :)](https://raw.githubusercontent.com/SumRug/PracticaSOS2/master/app-debug.apk)
+[APK Para la aplicación :)](https://github.com/SumRug/PracticaSOS2/blob/master/app-debug.apk)
